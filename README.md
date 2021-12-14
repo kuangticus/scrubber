@@ -1,3 +1,3 @@
-# stockBot
+# scrubber
 
-Simple bot that tracks the stats of a stock that is inputed
+Simple head lines scrubber that will sending head lines to email address froms stock sources and news outlets.
